@@ -78,7 +78,7 @@ p{margin-bottom:20px}
   .two-col{gap:38px}.warning-panel{padding:34px}.fit-copy{padding:38px 34px}.review-questions{padding:35px}.review-form{padding:26px}
 }
 @media(max-width:560px){
-  .two-col,.warning-panel,.fit-panel,.review-grid{
+  .two-col,.warning-panel,.fit-panel,.review-grid,.hero__inner{
     display:block;
   }
   body{font-size:15px;line-height:1.48}.container{width:min(calc(100% - 24px),500px)}.section{padding:48px 0}
