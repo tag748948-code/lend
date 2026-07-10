@@ -78,6 +78,9 @@ p{margin-bottom:20px}
   .two-col{gap:38px}.warning-panel{padding:34px}.fit-copy{padding:38px 34px}.review-questions{padding:35px}.review-form{padding:26px}
 }
 @media(max-width:560px){
+  .two-col,.warning-panel,.fit-panel,.review-grid{
+    display:block;
+  }
   body{font-size:15px;line-height:1.48}.container{width:min(calc(100% - 24px),500px)}.section{padding:48px 0}
   h1{font-size:35px;line-height:1.07}h2{font-size:29px;line-height:1.15;margin-bottom:22px}h3{font-size:17px}
   .hero__copy{padding-top:25px}.brand{margin-bottom:23px}.brand img{width:158px}.hero h1{font-size:34px;line-height:1.06;margin-bottom:20px}.hero p{font-size:15px;margin-bottom:26px}.hero-strip a{padding:16px 10px;font-size:13px}
